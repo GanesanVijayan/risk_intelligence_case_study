@@ -1,4 +1,4 @@
-# DESIGN.md – Risk Intelligence Pipeline
+# Risk Intelligence Pipeline
 
 ## Stack Overview
 - **Language**: Python 3.10+

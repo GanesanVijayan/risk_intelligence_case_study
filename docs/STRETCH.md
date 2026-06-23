@@ -1,4 +1,4 @@
-# STRETCH.md – Future Implementation Roadmap
+# Future Implementation Roadmap
 
 ## Goal
 Extend the single‑report risk pipeline into a scalable, resilient, and production‑ready system.  

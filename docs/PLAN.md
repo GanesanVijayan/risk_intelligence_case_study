@@ -1,4 +1,4 @@
-# PLAN.md – Risk Intelligence Pipeline
+# Risk Intelligence Pipeline
 
 ## Product Context
 We are building a structured risk intelligence pipeline that ingests corporate annual reports and extracts principal risks into a queryable database. The immediate deliverable is a single‑report pipeline (Vestas Annual Report 2025), but the design anticipates scaling across hundreds of reports per quarter.
