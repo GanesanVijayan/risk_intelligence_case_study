@@ -63,6 +63,7 @@
 python pipeline.py
 
 ## Future Extensions
+- **OOPs structural implementation for better modularity, scalability, testability, and reusability.
 - **LangGraph Multi‑Agent Orchestration**:
   - Agents for ingestion, candidate detection, summarization, validation, evaluation, consolidation, query interface.
 - **Drift Monitoring**:

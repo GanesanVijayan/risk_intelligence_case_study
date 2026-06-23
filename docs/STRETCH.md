@@ -88,7 +88,9 @@ Focus areas: **LangGraph orchestration**, **RAG integration**, **guardrails**, *
 
 ---
 
-## Next Week Deliverables
+## Next Week Deliverables (prioritized if asked)
+- **OOPs structural implementation for better modularity, scalability, testability, and reusability.
+- **Robust unit, integration, and metrics evaluation framework with acceptable coverage.
 - **LangGraph orchestration code** with defined state, nodes, edges, and conditional edges.
 - **Guardrails integration** (schema + content safety).
 - **Observability hooks** (metrics, logs, drift monitoring).
