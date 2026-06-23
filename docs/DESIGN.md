@@ -55,11 +55,11 @@
 ## Scaling Considerations
 - **Latency**: Parallelize page processing; batch LLM calls.
 - **Cost**: Cache embeddings; reuse classification prompts.
-- **Throughput**: Deploy microservices on AKS (Azure) or OpenShift (on‑prem).
+- **Throughput**: Deploy microservices and tool calls on AKS or OpenShift with LLM runtime environment and inferencing server.
 - **Observability**: Integrate DeepEval, RAGAs, LangSmith for evaluation metrics.
 - **Resilience**: Guardrails (content safety, schema checks), retry/fallback mechanisms.
 
-# How to run via terminal
+## How to run via terminal
 python pipeline.py
 
 ## Future Extensions
