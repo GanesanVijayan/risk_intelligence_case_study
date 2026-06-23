@@ -1,0 +1,28 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "Health safety incidents own workforce",
+         "description": "Actual health and safety incidents among employees cause delays, lost work hours, and direct compensation costs.",
+         "category": "operational",
+         "page_reference": "p.73",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Supply chain health safety incidents",
+         "description": "Upstream workers' health safety incidents are deemed immaterial but contractors/sub-contractors pose risks with injuries leading to delays and compensation costs.",
+         "category": "supply chain",
+         "page_reference": "p.73",
+         "mitigation": null
+      },
+      {
+         "risk_title": "Forced/child labour supply chain risk",
+         "description": "Potential forced or child labor in the value chain carries fines and reputational risks due to Vestas’ global supplier network.",
+         "category": "regulatory",
+         "page_reference": "p.73",
+         "mitigation": []
+      }
+   ]
+}

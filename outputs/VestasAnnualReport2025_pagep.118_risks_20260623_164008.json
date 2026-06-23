@@ -1,0 +1,25 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "Cyber Attacks on Vestas' Digital Infrastructure",
+         "description": "Potential cyber incidents disrupting power production, outages, and financial losses due to targeted attacks on digitally connected wind turbines and operational systems. Threat actors seek to trigger power outages, impacting customers and society.",
+         "category": "cyber",
+         "page_reference": "p.118",
+         "mitigation": [
+            "Strategic cyber risk management (safeguarding Vestas’ strategic objectives)",
+            "Customer cyber risk management (protecting energy solutions delivered to customers)",
+            "Manufacturing cyber risk management (securing manufacturing facilities)",
+            "Operational cyber risk management (managing risks across digital systems and services)",
+            "Built-in security standards (ISA/IEC 62443 Series compliance for all technologies)",
+            "Internal Security Operations Centre (real-time monitoring of global digital infrastructure)",
+            "Customer-focused Security Operations Centre (monitoring serviced customer power plants)",
+            "Cyber Academy (employee training to reduce attack surfaces and detect threats)",
+            "Contribution to open-source initiatives for standardizing cyber risk quantification",
+            "Engagement with scientific bodies for threat intelligence, economics, and cyberattack path analysis"
+         ]
+      }
+   ]
+}

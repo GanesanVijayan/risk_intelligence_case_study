@@ -1,0 +1,412 @@
+[
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "Cyber Attacks on Vestas' Digital Infrastructure",
+            "description": "Potential cyber incidents disrupting power production, outages, and financial losses due to targeted attacks on digitally connected wind turbines and operational systems. Threat actors seek to trigger power outages, impacting customers and society.",
+            "category": "cyber",
+            "page_reference": "p.118",
+            "mitigation": [
+               "Strategic cyber risk management (safeguarding Vestas\u2019 strategic objectives)",
+               "Customer cyber risk management (protecting energy solutions delivered to customers)",
+               "Manufacturing cyber risk management (securing manufacturing facilities)",
+               "Operational cyber risk management (managing risks across digital systems and services)",
+               "Built-in security standards (ISA/IEC 62443 Series compliance for all technologies)",
+               "Internal Security Operations Centre (real-time monitoring of global digital infrastructure)",
+               "Customer-focused Security Operations Centre (monitoring serviced customer power plants)",
+               "Cyber Academy (employee training to reduce attack surfaces and detect threats)",
+               "Contribution to open-source initiatives for standardizing cyber risk quantification",
+               "Engagement with scientific bodies for threat intelligence, economics, and cyberattack path analysis"
+            ]
+         }
+      ]
+   },
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "Industry Evolution Risks",
+            "description": "Exposure to risks arising from a rapidly evolving renewable energy sector due to technological and market changes.",
+            "category": "market",
+            "page_reference": "p.50",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Operational Complexity Risks",
+            "description": "Global business operations across diverse markets introduce operational challenges requiring structured risk management.",
+            "category": "operational",
+            "page_reference": "p.50",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Macroeconomic Risks",
+            "description": "Financial and strategic risks stemming from global economic fluctuations affecting short- to medium-term objectives.",
+            "category": "market",
+            "page_reference": "p.50",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Regulatory Challenges",
+            "description": "Potential regulatory hurdles impacting compliance and business strategy across global markets.",
+            "category": "regulatory",
+            "page_reference": "p.50",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Sustainability Risks",
+            "description": "Material risks including climate change mitigation and responsible business conduct affecting strategic goals.",
+            "category": "climate",
+            "page_reference": "p.50",
+            "mitigation": [
+               "Review by Executive Management Team, Board of Directors, Audit Committee every six months"
+            ]
+         }
+      ]
+   },
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "Geopolitical tensions disrupting global operations",
+            "description": "Conflicts in Ukraine and Middle East, intensified trade barriers, and assertive industrial policies (EU/China/USA) disrupt supply chains, increase costs, and weaken project economics.",
+            "category": "supply chain",
+            "page_reference": "p.51",
+            "mitigation": [
+               "Continuous monitoring of global developments",
+               "Global and regionalized manufacturing footprint",
+               "Proactive advocacy for policy alignment"
+            ]
+         },
+         {
+            "risk_title": "Project execution delays and quality issues",
+            "description": "Complex offshore projects face coordination challenges, scaling difficulties, and logistical disruptions leading to delays, cost overruns, and reputational damage.",
+            "category": "operational",
+            "page_reference": "p.51",
+            "mitigation": [
+               "Enhanced project governance",
+               "Continuous alignment between commercial and delivery teams"
+            ]
+         },
+         {
+            "risk_title": "Cyber threats targeting energy infrastructure",
+            "description": "Evolving cyber actors target Vestas\u2019 digital assets, critical infrastructure, and energy solutions for extortion or destabilization, risking economic loss and reputational harm.",
+            "category": "cyber",
+            "page_reference": "p.51",
+            "mitigation": [
+               "Scalable cybersecurity services",
+               "Supplier coordination for timely component availability"
+            ]
+         }
+      ]
+   },
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "Climate Change Financial Risks",
+            "description": "GHG emissions from Vestas\u2019 operations and value chain pose negative climate impacts, while low-emission materials offer financial opportunities.",
+            "category": "climate",
+            "page_reference": "p.71",
+            "mitigation": [
+               "Offering low-emission materials improves value proposition"
+            ]
+         },
+         {
+            "risk_title": "High Carbon Taxes and Tariffs",
+            "description": "Increased carbon taxes and tariffs raise costs for GHG-intensive materials like steel, impacting wind turbine production.",
+            "category": "regulatory",
+            "page_reference": "p.71",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Energy Consumption Risks",
+            "description": "Fossil energy use in manufacturing and service of turbines negatively impacts climate, though scored as immaterial for financial materiality.",
+            "category": "climate",
+            "page_reference": "p.71",
+            "mitigation": []
+         }
+      ]
+   },
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "GHG emissions in supply chain",
+            "description": "Negative impact on biodiversity and ecosystems due to GHG emissions from raw material extraction, production, and transportation.",
+            "category": "climate",
+            "page_reference": "p.72",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Non-recyclable materials in turbines",
+            "description": "Landfill or incineration of non-recyclable blade materials increases resource outflow and environmental impact.",
+            "category": "climate",
+            "page_reference": "p.72",
+            "mitigation": [
+               "Offering blade circularity solutions improves value proposition"
+            ]
+         },
+         {
+            "risk_title": "Resource inflow risks in upstream supply chain",
+            "description": "Climate and environmental impacts from extraction/production of metals and raw materials.",
+            "category": "climate",
+            "page_reference": "p.72",
+            "mitigation": []
+         }
+      ]
+   },
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "Health safety incidents own workforce",
+            "description": "Actual health and safety incidents among employees cause delays, lost work hours, and direct compensation costs.",
+            "category": "operational",
+            "page_reference": "p.73",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Supply chain health safety incidents",
+            "description": "Upstream workers' health safety incidents are deemed immaterial but contractors/sub-contractors pose risks with injuries leading to delays and compensation costs.",
+            "category": "supply chain",
+            "page_reference": "p.73",
+            "mitigation": null
+         },
+         {
+            "risk_title": "Forced/child labour supply chain risk",
+            "description": "Potential forced or child labor in the value chain carries fines and reputational risks due to Vestas\u2019 global supplier network.",
+            "category": "regulatory",
+            "page_reference": "p.73",
+            "mitigation": []
+         }
+      ]
+   },
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "Land-use restrictions during wind farm construction",
+            "description": "Temporary negative social and cultural rights impact due to displacement (economic loss) from land-use restrictions during wind farm construction.",
+            "category": "operational",
+            "page_reference": "p.74",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Failure to respect indigenous peoples' rights",
+            "description": "Negative impact on indigenous communities due to violation of their right to own, control, and use lands in wind farm development.",
+            "category": "operational",
+            "page_reference": "p.74",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Insufficient market conditions for wind deployment",
+            "description": "Adequate grid expansion, effective auction design, and permit delays could increase costs, hinder investments, and reduce viability of wind energy projects.",
+            "category": "market",
+            "page_reference": "p.74",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Cyber attacks on wind farm infrastructure",
+            "description": "Potential cyber security incidents disrupting operations, exposing intellectual property, causing power outages, and increasing electricity prices.",
+            "category": "cyber",
+            "page_reference": "p.74",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Risk of corruption and bribery exposure",
+            "description": "Vestas\u2019 global presence increases exposure to corruption and bribery, despite being scored as immaterial.",
+            "category": "regulatory",
+            "page_reference": "p.74",
+            "mitigation": []
+         }
+      ]
+   },
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "Carbon tax financial burden",
+            "description": "High carbon taxes on steel and iron will increase material costs for wind turbines, raising overall turbine expenses.",
+            "category": "regulatory",
+            "page_reference": "p.85",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Scope 3 emissions compliance risk",
+            "description": "Failure to meet Scope 1/2/3 GHG emission targets (e.g., decarbonizing steel suppliers) could lead to financial penalties or reputational damage.",
+            "category": "regulatory",
+            "page_reference": "p.85",
+            "mitigation": [
+               "Engaging with industry associations",
+               "Decarbonising high-emission materials"
+            ]
+         },
+         {
+            "risk_title": "Supply chain transition cost risk",
+            "description": "Slow adoption of low-carbon alternatives (e.g., steel) may force Vestas to absorb higher costs, impacting profitability and competitiveness.",
+            "category": "market",
+            "page_reference": "p.85",
+            "mitigation": [
+               "Collaborating with suppliers/customers",
+               "Enhancing sustainability value proposition"
+            ]
+         },
+         {
+            "risk_title": "Climate policy uncertainty risk",
+            "description": "Unforeseen political shifts (e.g., carbon tariffs) could disrupt market stability and increase operational costs.",
+            "category": "regulatory",
+            "page_reference": "p.85",
+            "mitigation": [
+               "Monitoring legal developments",
+               "Preparing for transition risks"
+            ]
+         },
+         {
+            "risk_title": "Energy consumption efficiency risk",
+            "description": "Increased energy use in manufacturing/construction may strain operations and emissions, despite industry growth.",
+            "category": "climate",
+            "page_reference": "p.85",
+            "mitigation": [
+               "Industry-leading decarbonisation initiatives"
+            ]
+         },
+         {
+            "risk_title": "Scope 1/2 emissions dependency risk",
+            "description": "Reliance on fossil fuels (e.g., Scope 1) and grid electricity (Scope 2) exposes Vestas to rising emission costs.",
+            "category": "climate",
+            "page_reference": "p.85",
+            "mitigation": [
+               "Transition plan for climate mitigation"
+            ]
+         },
+         {
+            "risk_title": "Market demand volatility risk",
+            "description": "Rapid expansion of wind energy may create supply chain bottlenecks or price fluctuations in components.",
+            "category": "market",
+            "page_reference": "p.85",
+            "mitigation": [
+               "Spearheading decarbonisation initiatives"
+            ]
+         },
+         {
+            "risk_title": "Tender non-price criteria risk",
+            "description": "Increased use of sustainability criteria in tenders could exclude Vestas if emissions targets aren\u2019t met.",
+            "category": "market",
+            "page_reference": "p.85",
+            "mitigation": [
+               "Enabling businesses/society to reduce GHG emissions"
+            ]
+         },
+         {
+            "risk_title": "Resource depletion risk",
+            "description": "Over-reliance on fossil fuels for operations may lead to supply shortages and higher costs.",
+            "category": "supply chain",
+            "page_reference": "p.85",
+            "mitigation": [
+               "Reducing reliance on fossil fuels"
+            ]
+         }
+      ]
+   },
+   {
+      "company_name": "Vestas",
+      "year": "2025",
+      "file_name": "VestasAnnualReport2025.pdf",
+      "risks": [
+         {
+            "risk_title": "High CAPEX/OPEX for decarbonization",
+            "description": "Significant investments in renewable energy and carbon tax mitigation are required, with immature commercial solutions increasing alignment costs.",
+            "category": "financial",
+            "page_reference": "p.86",
+            "mitigation": [
+               "EUR 0.3m (2024: EUR 0.5m) CAPEX in renewables",
+               "EUR 32.4m (2024: EUR 23.2m) OPEX for carbon tax mitigation"
+            ]
+         },
+         {
+            "risk_title": "Technical immaturity of decarbonization solutions",
+            "description": "Immature commercial or technical alternatives delay full adoption of renewable energy and emissions reduction levers.",
+            "category": "operational",
+            "page_reference": "p.86",
+            "mitigation": []
+         },
+         {
+            "risk_title": "Slow EV fleet transition in service operations",
+            "description": "Only 25% (down from 26%) of vehicles are renewably fuelled by end-2025, despite targets for regional EV adoption.",
+            "category": "operational",
+            "page_reference": "p.86",
+            "mitigation": [
+               "Regional EV adoption targets",
+               "Increased charging infrastructure (160+ chargers in Denmark)"
+            ]
+         },
+         {
+            "risk_title": "Supply chain emissions reduction challenges",
+            "description": "Scope 3 GHG target of 45% per MWh by 2030 requires supplier collaboration; progress depends on market-based solutions.",
+            "category": "supply chain",
+            "page_reference": "p.86",
+            "mitigation": [
+               "Low-emission steel orders in 2025",
+               "Supplier decarbonization partnerships"
+            ]
+         },
+         {
+            "risk_title": "Climate policy uncertainty affecting global targets",
+            "description": "Industry may struggle to meet climate goals without supportive policies, risking operational alignment delays.",
+            "category": "regulatory",
+            "page_reference": "p.86",
+            "mitigation": [
+               "Strategic investments in compliance tools",
+               "Quarterly progress reviews by management"
+            ]
+         },
+         {
+            "risk_title": "Offshore methanol transition risks",
+            "description": "Pilot vessel (2025\u20132026) relies on evolving methanol standards; operational updates may extend timeline.",
+            "category": "operational",
+            "page_reference": "p.86",
+            "mitigation": [
+               "Class approval updates",
+               "10-year charter agreement with Northern Offshore Service"
+            ]
+         },
+         {
+            "risk_title": "Renewable energy sourcing dependency on policies",
+            "description": "100% renewable electricity sourcing depends on supportive policies; lack of them risks operational disruptions.",
+            "category": "market",
+            "page_reference": "p.86",
+            "mitigation": [
+               "Global 100% renewable procurement",
+               "SAF expansion for project-related flights"
+            ]
+         },
+         {
+            "risk_title": "Climate scenario analysis uncertainties",
+            "description": "Future climate risks (e.g., water stress, extreme rainfall) are based on uncertain assumptions; physical impacts may not materialize financially.",
+            "category": "climate",
+            "page_reference": "p.86",
+            "mitigation": [
+               "Quarterly resilience reviews",
+               "Value-chain prioritization for direct impact areas"
+            ]
+         }
+      ]
+   }
+]

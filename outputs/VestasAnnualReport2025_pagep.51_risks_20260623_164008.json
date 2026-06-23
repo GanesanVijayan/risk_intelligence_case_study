@@ -1,0 +1,38 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "Geopolitical tensions disrupting global operations",
+         "description": "Conflicts in Ukraine and Middle East, intensified trade barriers, and assertive industrial policies (EU/China/USA) disrupt supply chains, increase costs, and weaken project economics.",
+         "category": "supply chain",
+         "page_reference": "p.51",
+         "mitigation": [
+            "Continuous monitoring of global developments",
+            "Global and regionalized manufacturing footprint",
+            "Proactive advocacy for policy alignment"
+         ]
+      },
+      {
+         "risk_title": "Project execution delays and quality issues",
+         "description": "Complex offshore projects face coordination challenges, scaling difficulties, and logistical disruptions leading to delays, cost overruns, and reputational damage.",
+         "category": "operational",
+         "page_reference": "p.51",
+         "mitigation": [
+            "Enhanced project governance",
+            "Continuous alignment between commercial and delivery teams"
+         ]
+      },
+      {
+         "risk_title": "Cyber threats targeting energy infrastructure",
+         "description": "Evolving cyber actors target Vestas’ digital assets, critical infrastructure, and energy solutions for extortion or destabilization, risking economic loss and reputational harm.",
+         "category": "cyber",
+         "page_reference": "p.51",
+         "mitigation": [
+            "Scalable cybersecurity services",
+            "Supplier coordination for timely component availability"
+         ]
+      }
+   ]
+}

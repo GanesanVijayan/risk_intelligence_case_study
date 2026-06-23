@@ -1,0 +1,254 @@
+2026-06-23 16:40:08,507 [INFO] List of pages for processing: [50, 51, 71, 72, 73, 74, 85, 86, 118]
+2026-06-23 16:40:08,509 [INFO] Starting page processing...
+2026-06-23 16:40:08,509 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:08,509 [INFO] Processing Page number: p.50
+2026-06-23 16:40:08,571 [INFO] p.50: Risk candidates found
+2026-06-23 16:40:13,312 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:13,318 [INFO] p.50: Schema validation passed.
+2026-06-23 16:40:13,319 [INFO] Page p.50 processed successfully in 4.81s. Saved to outputs/VestasAnnualReport2025_pagep.50_risks_20260623_164008.json
+2026-06-23 16:40:13,319 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:13,319 [INFO] Processing Page number: p.51
+2026-06-23 16:40:13,413 [INFO] p.51: Risk candidates found
+2026-06-23 16:40:17,244 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:17,245 [INFO] p.51: Schema validation passed.
+2026-06-23 16:40:17,246 [INFO] Page p.51 processed successfully in 3.93s. Saved to outputs/VestasAnnualReport2025_pagep.51_risks_20260623_164008.json
+2026-06-23 16:40:17,246 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:17,246 [INFO] Processing Page number: p.71
+2026-06-23 16:40:17,307 [INFO] p.71: Risk candidates found
+2026-06-23 16:40:20,285 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:20,287 [INFO] p.71: Schema validation passed.
+2026-06-23 16:40:20,288 [INFO] Page p.71 processed successfully in 3.04s. Saved to outputs/VestasAnnualReport2025_pagep.71_risks_20260623_164008.json
+2026-06-23 16:40:20,288 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:20,288 [INFO] Processing Page number: p.72
+2026-06-23 16:40:20,320 [INFO] p.72: Risk candidates found
+2026-06-23 16:40:23,086 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:23,087 [INFO] p.72: Schema validation passed.
+2026-06-23 16:40:23,088 [INFO] Page p.72 processed successfully in 2.80s. Saved to outputs/VestasAnnualReport2025_pagep.72_risks_20260623_164008.json
+2026-06-23 16:40:23,088 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:23,088 [INFO] Processing Page number: p.73
+2026-06-23 16:40:23,125 [INFO] p.73: Risk candidates found
+2026-06-23 16:40:25,878 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:25,879 [INFO] p.73: Schema validation passed.
+2026-06-23 16:40:25,880 [INFO] Page p.73 processed successfully in 2.79s. Saved to outputs/VestasAnnualReport2025_pagep.73_risks_20260623_164008.json
+2026-06-23 16:40:25,880 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:25,880 [INFO] Processing Page number: p.74
+2026-06-23 16:40:25,913 [INFO] p.74: Risk candidates found
+2026-06-23 16:40:30,579 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:30,580 [INFO] p.74: Schema validation passed.
+2026-06-23 16:40:30,581 [INFO] Page p.74 processed successfully in 4.70s. Saved to outputs/VestasAnnualReport2025_pagep.74_risks_20260623_164008.json
+2026-06-23 16:40:30,581 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:30,581 [INFO] Processing Page number: p.85
+2026-06-23 16:40:30,666 [INFO] p.85: Risk candidates found
+2026-06-23 16:40:39,475 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:39,476 [INFO] p.85: Schema validation passed.
+2026-06-23 16:40:39,476 [INFO] Page p.85 processed successfully in 8.90s. Saved to outputs/VestasAnnualReport2025_pagep.85_risks_20260623_164008.json
+2026-06-23 16:40:39,477 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:39,477 [INFO] Processing Page number: p.86
+2026-06-23 16:40:39,678 [INFO] p.86: Risk candidates found
+2026-06-23 16:40:48,981 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:48,982 [INFO] p.86: Schema validation passed.
+2026-06-23 16:40:48,983 [INFO] Page p.86 processed successfully in 9.51s. Saved to outputs/VestasAnnualReport2025_pagep.86_risks_20260623_164008.json
+2026-06-23 16:40:48,983 [INFO] Processing document: VestasAnnualReport2025.pdf
+2026-06-23 16:40:48,984 [INFO] Processing Page number: p.118
+2026-06-23 16:40:49,145 [INFO] p.118: Risk candidates found
+2026-06-23 16:40:52,551 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,552 [INFO] p.118: Schema validation passed.
+2026-06-23 16:40:52,553 [INFO] Page p.118 processed successfully in 3.57s. Saved to outputs/VestasAnnualReport2025_pagep.118_risks_20260623_164008.json
+2026-06-23 16:40:52,555 [INFO] Consolidated report saved to outputs/VestasAnnualReport2025_consolidated_risk_report_20260623_164008.json in 0.00s
+2026-06-23 16:40:52,566 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,577 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,591 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,602 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,604 [INFO] Evaluation for page p.118 completed.
+2026-06-23 16:40:52,604 [INFO] Exact match eval:
+2026-06-23 16:40:52,604 [INFO] p.118: Exact match eval passed
+2026-06-23 16:40:52,605 [INFO] Exact match eval results:
+ {'page_reference': 'p.118', 'exact_match_eval_results': [{'risk_title': "Cyber Attacks on Vestas' Digital Infrastructure", 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': "Geopolitical Cyber Threats Affecting Vestas' Customers", 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 100.0}
+2026-06-23 16:40:52,605 [INFO] Semantic eval:
+2026-06-23 16:40:52,605 [INFO] p.118: Semantic eval passed
+2026-06-23 16:40:52,605 [INFO] Semantic eval results:
+ {'page_reference': 'p.118', 'semantic_eval_results': [{'risk_title': "Cyber Attacks on Vestas' Digital Infrastructure", 'similarity': 0.951, 'page_reference': 'p.118', 'status': 'passed'}, {'risk_title': "Geopolitical Cyber Threats Affecting Vestas' Customers", 'similarity': 0.8, 'page_reference': 'p.118', 'status': 'passed'}], 'semantic_eval_score': 100.0}
+2026-06-23 16:40:52,605 [INFO] Coverage eval:
+2026-06-23 16:40:52,605 [INFO] p.118: Coverage eval passed
+2026-06-23 16:40:52,605 [INFO] Coverage eval results:
+ {'page_reference': 'p.118', 'coverage_eval_results': [{'matched': ['cyber'], 'missing_in_output': [], 'extra_in_output': [], 'status': 'passed'}], 'coverage_eval_score': 100.0}
+2026-06-23 16:40:52,614 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,625 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,635 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,646 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,655 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,665 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,674 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,683 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,692 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,701 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,703 [INFO] Evaluation for page p.50 completed.
+2026-06-23 16:40:52,703 [INFO] Exact match eval:
+2026-06-23 16:40:52,703 [INFO] p.50: Exact match eval passed
+2026-06-23 16:40:52,703 [INFO] Exact match eval results:
+ {'page_reference': 'p.50', 'exact_match_eval_results': [{'risk_title': 'Operational Risks', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Commercial Risks', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Macroeconomic Risks', 'status': 'failed', 'failure_reason': 'missing in golden set'}, {'risk_title': 'Regulatory Risks', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Enterprise Risk Management Framework', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Sustainability Risks', 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 83.33}
+2026-06-23 16:40:52,703 [INFO] Semantic eval:
+2026-06-23 16:40:52,703 [ERROR] p.50: Semantic eval failed
+2026-06-23 16:40:52,703 [INFO] Semantic eval results:
+ {'page_reference': 'p.50', 'semantic_eval_results': [{'risk_title': 'Operational Risks', 'similarity': 0.87, 'page_reference': 'p.50', 'status': 'passed'}, {'risk_title': 'Commercial Risks', 'similarity': 0.671, 'page_reference': 'p.50', 'status': 'failed'}, {'risk_title': 'Regulatory Risks', 'similarity': 0.778, 'page_reference': 'p.50', 'status': 'passed'}, {'risk_title': 'Enterprise Risk Management Framework', 'similarity': 0.618, 'page_reference': 'p.50', 'status': 'failed'}, {'risk_title': 'Sustainability Risks', 'similarity': 0.888, 'page_reference': 'p.50', 'status': 'passed'}], 'semantic_eval_score': 60.0}
+2026-06-23 16:40:52,703 [INFO] Coverage eval:
+2026-06-23 16:40:52,703 [INFO] p.50: Coverage eval passed
+2026-06-23 16:40:52,703 [INFO] Coverage eval results:
+ {'page_reference': 'p.50', 'coverage_eval_results': [{'matched': ['regulatory', 'climate', 'operational', 'market'], 'missing_in_output': [], 'extra_in_output': ['financial'], 'status': 'failed'}], 'coverage_eval_score': 100.0}
+2026-06-23 16:40:52,713 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,723 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,732 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,740 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,750 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,764 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,766 [INFO] Evaluation for page p.51 completed.
+2026-06-23 16:40:52,766 [INFO] Exact match eval:
+2026-06-23 16:40:52,766 [INFO] p.51: Exact match eval passed
+2026-06-23 16:40:52,767 [INFO] Exact match eval results:
+ {'page_reference': 'p.51', 'exact_match_eval_results': [{'risk_title': 'Geopolitical tensions disrupting global operations', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Regulatory shifts affecting clean-tech competitiveness', 'status': 'failed', 'failure_reason': 'missing in golden set'}, {'risk_title': 'Project execution delays due to scaling complexity', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Cyber threats targeting energy infrastructure', 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 75.0}
+2026-06-23 16:40:52,767 [INFO] Semantic eval:
+2026-06-23 16:40:52,767 [INFO] p.51: Semantic eval passed
+2026-06-23 16:40:52,767 [INFO] Semantic eval results:
+ {'page_reference': 'p.51', 'semantic_eval_results': [{'risk_title': 'Geopolitical tensions disrupting global operations', 'similarity': 0.852, 'page_reference': 'p.51', 'status': 'passed'}, {'risk_title': 'Project execution delays due to scaling complexity', 'similarity': 0.892, 'page_reference': 'p.51', 'status': 'passed'}, {'risk_title': 'Cyber threats targeting energy infrastructure', 'similarity': 0.889, 'page_reference': 'p.51', 'status': 'passed'}], 'semantic_eval_score': 100.0}
+2026-06-23 16:40:52,767 [INFO] Coverage eval:
+2026-06-23 16:40:52,767 [INFO] p.51: Coverage eval passed
+2026-06-23 16:40:52,767 [INFO] Coverage eval results:
+ {'page_reference': 'p.51', 'coverage_eval_results': [{'matched': ['cyber', 'operational', 'supply chain'], 'missing_in_output': [], 'extra_in_output': ['regulatory'], 'status': 'failed'}], 'coverage_eval_score': 100.0}
+2026-06-23 16:40:52,775 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,784 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,793 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,800 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,810 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,818 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,820 [INFO] Evaluation for page p.71 completed.
+2026-06-23 16:40:52,820 [INFO] Exact match eval:
+2026-06-23 16:40:52,820 [INFO] p.71: Exact match eval passed
+2026-06-23 16:40:52,820 [INFO] Exact match eval results:
+ {'page_reference': 'p.71', 'exact_match_eval_results': [{'risk_title': 'Climate Change Financial Risks', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'High Carbon Taxes and Tariffs', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Energy Consumption Risks', 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 100.0}
+2026-06-23 16:40:52,820 [INFO] Semantic eval:
+2026-06-23 16:40:52,820 [INFO] p.71: Semantic eval passed
+2026-06-23 16:40:52,821 [INFO] Semantic eval results:
+ {'page_reference': 'p.71', 'semantic_eval_results': [{'risk_title': 'Climate Change Financial Risks', 'similarity': 0.873, 'page_reference': 'p.71', 'status': 'passed'}, {'risk_title': 'High Carbon Taxes and Tariffs', 'similarity': 0.975, 'page_reference': 'p.71', 'status': 'passed'}, {'risk_title': 'Energy Consumption Risks', 'similarity': 0.712, 'page_reference': 'p.71', 'status': 'passed'}], 'semantic_eval_score': 100.0}
+2026-06-23 16:40:52,821 [INFO] Coverage eval:
+2026-06-23 16:40:52,821 [INFO] p.71: Coverage eval passed
+2026-06-23 16:40:52,821 [INFO] Coverage eval results:
+ {'page_reference': 'p.71', 'coverage_eval_results': [{'matched': ['climate', 'regulatory'], 'missing_in_output': [], 'extra_in_output': [], 'status': 'passed'}], 'coverage_eval_score': 100.0}
+2026-06-23 16:40:52,828 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,837 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,846 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,856 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,869 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,878 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,880 [INFO] Evaluation for page p.72 completed.
+2026-06-23 16:40:52,880 [INFO] Exact match eval:
+2026-06-23 16:40:52,880 [INFO] p.72: Exact match eval passed
+2026-06-23 16:40:52,881 [INFO] Exact match eval results:
+ {'page_reference': 'p.72', 'exact_match_eval_results': [{'risk_title': 'GHG emissions in supply chain', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Non-recyclable materials in turbines', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Resource inflow risks in upstream supply chain', 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 100.0}
+2026-06-23 16:40:52,881 [INFO] Semantic eval:
+2026-06-23 16:40:52,881 [INFO] p.72: Semantic eval passed
+2026-06-23 16:40:52,881 [INFO] Semantic eval results:
+ {'page_reference': 'p.72', 'semantic_eval_results': [{'risk_title': 'GHG emissions in supply chain', 'similarity': 0.96, 'page_reference': 'p.72', 'status': 'passed'}, {'risk_title': 'Non-recyclable materials in turbines', 'similarity': 0.704, 'page_reference': 'p.72', 'status': 'passed'}, {'risk_title': 'Resource inflow risks in upstream supply chain', 'similarity': 0.793, 'page_reference': 'p.72', 'status': 'passed'}], 'semantic_eval_score': 100.0}
+2026-06-23 16:40:52,881 [INFO] Coverage eval:
+2026-06-23 16:40:52,881 [INFO] p.72: Coverage eval passed
+2026-06-23 16:40:52,881 [INFO] Coverage eval results:
+ {'page_reference': 'p.72', 'coverage_eval_results': [{'matched': ['climate'], 'missing_in_output': [], 'extra_in_output': [], 'status': 'passed'}], 'coverage_eval_score': 100.0}
+2026-06-23 16:40:52,891 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,903 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,915 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,924 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,935 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,944 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,946 [INFO] Evaluation for page p.73 completed.
+2026-06-23 16:40:52,947 [INFO] Exact match eval:
+2026-06-23 16:40:52,947 [INFO] p.73: Exact match eval passed
+2026-06-23 16:40:52,947 [INFO] Exact match eval results:
+ {'page_reference': 'p.73', 'exact_match_eval_results': [{'risk_title': 'Health safety incidents own workforce', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Supply chain health safety incidents', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Forced or child labour in supply chain', 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 100.0}
+2026-06-23 16:40:52,947 [INFO] Semantic eval:
+2026-06-23 16:40:52,947 [INFO] p.73: Semantic eval passed
+2026-06-23 16:40:52,947 [INFO] Semantic eval results:
+ {'page_reference': 'p.73', 'semantic_eval_results': [{'risk_title': 'Health safety incidents own workforce', 'similarity': 0.992, 'page_reference': 'p.73', 'status': 'passed'}, {'risk_title': 'Supply chain health safety incidents', 'similarity': 0.938, 'page_reference': 'p.73', 'status': 'passed'}, {'risk_title': 'Forced or child labour in supply chain', 'similarity': 0.718, 'page_reference': 'p.73', 'status': 'passed'}], 'semantic_eval_score': 100.0}
+2026-06-23 16:40:52,947 [INFO] Coverage eval:
+2026-06-23 16:40:52,948 [ERROR] p.73: Coverage eval failed
+2026-06-23 16:40:52,948 [INFO] Coverage eval results:
+ {'page_reference': 'p.73', 'coverage_eval_results': [{'matched': ['operational', 'supply chain'], 'missing_in_output': ['regulatory'], 'extra_in_output': [], 'status': 'failed'}], 'coverage_eval_score': 66.67}
+2026-06-23 16:40:52,956 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,967 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,977 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,987 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:52,998 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,009 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,018 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,027 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,036 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,044 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,046 [INFO] Evaluation for page p.74 completed.
+2026-06-23 16:40:53,046 [INFO] Exact match eval:
+2026-06-23 16:40:53,046 [INFO] p.74: Exact match eval passed
+2026-06-23 16:40:53,046 [INFO] Exact match eval results:
+ {'page_reference': 'p.74', 'exact_match_eval_results': [{'risk_title': 'Land-use restrictions during wind farm construction', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': "Failure to respect indigenous peoples' land rights", 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Inadequate grid expansion and permit delays', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Cyber attacks on wind farm infrastructure', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Increased corruption and bribery risk', 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 100.0}
+2026-06-23 16:40:53,046 [INFO] Semantic eval:
+2026-06-23 16:40:53,046 [INFO] p.74: Semantic eval passed
+2026-06-23 16:40:53,047 [INFO] Semantic eval results:
+ {'page_reference': 'p.74', 'semantic_eval_results': [{'risk_title': 'Land-use restrictions during wind farm construction', 'similarity': 0.828, 'page_reference': 'p.74', 'status': 'passed'}, {'risk_title': "Failure to respect indigenous peoples' land rights", 'similarity': 0.766, 'page_reference': 'p.74', 'status': 'passed'}, {'risk_title': 'Inadequate grid expansion and permit delays', 'similarity': 0.584, 'page_reference': 'p.74', 'status': 'failed'}, {'risk_title': 'Cyber attacks on wind farm infrastructure', 'similarity': 0.916, 'page_reference': 'p.74', 'status': 'passed'}, {'risk_title': 'Increased corruption and bribery risk', 'similarity': 0.822, 'page_reference': 'p.74', 'status': 'passed'}], 'semantic_eval_score': 80.0}
+2026-06-23 16:40:53,047 [INFO] Coverage eval:
+2026-06-23 16:40:53,047 [ERROR] p.74: Coverage eval failed
+2026-06-23 16:40:53,047 [INFO] Coverage eval results:
+ {'page_reference': 'p.74', 'coverage_eval_results': [{'matched': ['regulatory', 'operational', 'cyber'], 'missing_in_output': ['market'], 'extra_in_output': [], 'status': 'failed'}], 'coverage_eval_score': 75.0}
+2026-06-23 16:40:53,054 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,064 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,073 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,081 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,088 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,101 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,109 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,118 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,127 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,134 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,143 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,151 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,163 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,170 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,172 [INFO] Evaluation for page p.85 completed.
+2026-06-23 16:40:53,172 [INFO] Exact match eval:
+2026-06-23 16:40:53,172 [INFO] p.85: Exact match eval passed
+2026-06-23 16:40:53,172 [INFO] Exact match eval results:
+ {'page_reference': 'p.85', 'exact_match_eval_results': [{'risk_title': 'Carbon tax financial burden', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Scope 3 emissions compliance risk', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Supply chain decarbonization delay', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Market transition risk from carbon tariffs', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Energy cost volatility in operations', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Climate policy uncertainty impact', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Scope 3 emissions growth risk', 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 100.0}
+2026-06-23 16:40:53,172 [INFO] Semantic eval:
+2026-06-23 16:40:53,172 [ERROR] p.85: Semantic eval failed
+2026-06-23 16:40:53,172 [INFO] Semantic eval results:
+ {'page_reference': 'p.85', 'semantic_eval_results': [{'risk_title': 'Carbon tax financial burden', 'similarity': 0.955, 'page_reference': 'p.85', 'status': 'passed'}, {'risk_title': 'Scope 3 emissions compliance risk', 'similarity': 0.583, 'page_reference': 'p.85', 'status': 'failed'}, {'risk_title': 'Supply chain decarbonization delay', 'similarity': 0.661, 'page_reference': 'p.85', 'status': 'failed'}, {'risk_title': 'Market transition risk from carbon tariffs', 'similarity': 0.701, 'page_reference': 'p.85', 'status': 'passed'}, {'risk_title': 'Energy cost volatility in operations', 'similarity': 0.729, 'page_reference': 'p.85', 'status': 'passed'}, {'risk_title': 'Climate policy uncertainty impact', 'similarity': 0.677, 'page_reference': 'p.85', 'status': 'failed'}, {'risk_title': 'Scope 3 emissions growth risk', 'similarity': 0.649, 'page_reference': 'p.85', 'status': 'failed'}], 'semantic_eval_score': 42.86}
+2026-06-23 16:40:53,172 [INFO] Coverage eval:
+2026-06-23 16:40:53,172 [INFO] p.85: Coverage eval passed
+2026-06-23 16:40:53,173 [INFO] Coverage eval results:
+ {'page_reference': 'p.85', 'coverage_eval_results': [{'matched': ['regulatory', 'climate', 'supply chain', 'market'], 'missing_in_output': [], 'extra_in_output': [], 'status': 'passed'}], 'coverage_eval_score': 100.0}
+2026-06-23 16:40:53,181 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,193 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,201 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,211 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,222 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,231 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,240 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,250 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,257 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,266 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,274 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,284 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,292 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,300 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,310 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,319 [INFO] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-23 16:40:53,320 [INFO] Evaluation for page p.86 completed.
+2026-06-23 16:40:53,321 [INFO] Exact match eval:
+2026-06-23 16:40:53,321 [INFO] p.86: Exact match eval passed
+2026-06-23 16:40:53,321 [INFO] Exact match eval results:
+ {'page_reference': 'p.86', 'exact_match_eval_results': [{'risk_title': 'High CAPEX and OPEX for renewable transition', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Climate policy uncertainty impacts industry', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Supply chain emissions reduction target', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Vehicle fleet transition challenges', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Offshore decarbonization pilot risks', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Renewable energy sourcing reliability', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'Extreme weather operational resilience', 'category_match': True, 'page_match': True, 'status': 'passed'}, {'risk_title': 'SAF adoption in aviation', 'category_match': True, 'page_match': True, 'status': 'passed'}], 'exact_match_eval_score': 100.0}
+2026-06-23 16:40:53,321 [INFO] Semantic eval:
+2026-06-23 16:40:53,321 [ERROR] p.86: Semantic eval failed
+2026-06-23 16:40:53,321 [INFO] Semantic eval results:
+ {'page_reference': 'p.86', 'semantic_eval_results': [{'risk_title': 'High CAPEX and OPEX for renewable transition', 'similarity': 0.742, 'page_reference': 'p.86', 'status': 'passed'}, {'risk_title': 'Climate policy uncertainty impacts industry', 'similarity': 0.661, 'page_reference': 'p.86', 'status': 'failed'}, {'risk_title': 'Supply chain emissions reduction target', 'similarity': 0.808, 'page_reference': 'p.86', 'status': 'passed'}, {'risk_title': 'Vehicle fleet transition challenges', 'similarity': 0.678, 'page_reference': 'p.86', 'status': 'failed'}, {'risk_title': 'Offshore decarbonization pilot risks', 'similarity': 0.57, 'page_reference': 'p.86', 'status': 'failed'}, {'risk_title': 'Renewable energy sourcing reliability', 'similarity': 0.587, 'page_reference': 'p.86', 'status': 'failed'}, {'risk_title': 'Extreme weather operational resilience', 'similarity': 0.798, 'page_reference': 'p.86', 'status': 'passed'}, {'risk_title': 'SAF adoption in aviation', 'similarity': 0.612, 'page_reference': 'p.86', 'status': 'failed'}], 'semantic_eval_score': 37.5}
+2026-06-23 16:40:53,321 [INFO] Coverage eval:
+2026-06-23 16:40:53,321 [INFO] p.86: Coverage eval passed
+2026-06-23 16:40:53,321 [INFO] Coverage eval results:
+ {'page_reference': 'p.86', 'coverage_eval_results': [{'matched': ['financial', 'climate', 'supply chain', 'operational', 'market'], 'missing_in_output': ['regulatory'], 'extra_in_output': [], 'status': 'failed'}], 'coverage_eval_score': 83.33}
+2026-06-23 16:40:53,321 [INFO] Evaluations completed in 0.77s
+2026-06-23 16:40:53,321 [INFO] Pipeline completed in 45.73s

@@ -1,0 +1,30 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "GHG emissions in supply chain",
+         "description": "Negative impact on biodiversity and ecosystems due to GHG emissions from raw material extraction, production, and transportation.",
+         "category": "climate",
+         "page_reference": "p.72",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Non-recyclable materials in turbines",
+         "description": "Landfill or incineration of non-recyclable blade materials increases resource outflow and environmental impact.",
+         "category": "climate",
+         "page_reference": "p.72",
+         "mitigation": [
+            "Offering blade circularity solutions improves value proposition"
+         ]
+      },
+      {
+         "risk_title": "Resource inflow risks in upstream supply chain",
+         "description": "Climate and environmental impacts from extraction/production of metals and raw materials.",
+         "category": "climate",
+         "page_reference": "p.72",
+         "mitigation": []
+      }
+   ]
+}

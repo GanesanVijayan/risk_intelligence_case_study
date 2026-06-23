@@ -1,0 +1,42 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "Land-use restrictions during wind farm construction",
+         "description": "Temporary negative social and cultural rights impact due to displacement (economic loss) from land-use restrictions during wind farm construction.",
+         "category": "operational",
+         "page_reference": "p.74",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Failure to respect indigenous peoples' rights",
+         "description": "Negative impact on indigenous communities due to violation of their right to own, control, and use lands in wind farm development.",
+         "category": "operational",
+         "page_reference": "p.74",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Insufficient market conditions for wind deployment",
+         "description": "Adequate grid expansion, effective auction design, and permit delays could increase costs, hinder investments, and reduce viability of wind energy projects.",
+         "category": "market",
+         "page_reference": "p.74",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Cyber attacks on wind farm infrastructure",
+         "description": "Potential cyber security incidents disrupting operations, exposing intellectual property, causing power outages, and increasing electricity prices.",
+         "category": "cyber",
+         "page_reference": "p.74",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Risk of corruption and bribery exposure",
+         "description": "Vestas’ global presence increases exposure to corruption and bribery, despite being scored as immaterial.",
+         "category": "regulatory",
+         "page_reference": "p.74",
+         "mitigation": []
+      }
+   ]
+}

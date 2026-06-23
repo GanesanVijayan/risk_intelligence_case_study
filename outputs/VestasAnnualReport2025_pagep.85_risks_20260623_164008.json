@@ -1,0 +1,89 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "Carbon tax financial burden",
+         "description": "High carbon taxes on steel and iron will increase material costs for wind turbines, raising overall turbine expenses.",
+         "category": "regulatory",
+         "page_reference": "p.85",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Scope 3 emissions compliance risk",
+         "description": "Failure to meet Scope 1/2/3 GHG emission targets (e.g., decarbonizing steel suppliers) could lead to financial penalties or reputational damage.",
+         "category": "regulatory",
+         "page_reference": "p.85",
+         "mitigation": [
+            "Engaging with industry associations",
+            "Decarbonising high-emission materials"
+         ]
+      },
+      {
+         "risk_title": "Supply chain transition cost risk",
+         "description": "Slow adoption of low-carbon alternatives (e.g., steel) may force Vestas to absorb higher costs, impacting profitability and competitiveness.",
+         "category": "market",
+         "page_reference": "p.85",
+         "mitigation": [
+            "Collaborating with suppliers/customers",
+            "Enhancing sustainability value proposition"
+         ]
+      },
+      {
+         "risk_title": "Climate policy uncertainty risk",
+         "description": "Unforeseen political shifts (e.g., carbon tariffs) could disrupt market stability and increase operational costs.",
+         "category": "regulatory",
+         "page_reference": "p.85",
+         "mitigation": [
+            "Monitoring legal developments",
+            "Preparing for transition risks"
+         ]
+      },
+      {
+         "risk_title": "Energy consumption efficiency risk",
+         "description": "Increased energy use in manufacturing/construction may strain operations and emissions, despite industry growth.",
+         "category": "climate",
+         "page_reference": "p.85",
+         "mitigation": [
+            "Industry-leading decarbonisation initiatives"
+         ]
+      },
+      {
+         "risk_title": "Scope 1/2 emissions dependency risk",
+         "description": "Reliance on fossil fuels (e.g., Scope 1) and grid electricity (Scope 2) exposes Vestas to rising emission costs.",
+         "category": "climate",
+         "page_reference": "p.85",
+         "mitigation": [
+            "Transition plan for climate mitigation"
+         ]
+      },
+      {
+         "risk_title": "Market demand volatility risk",
+         "description": "Rapid expansion of wind energy may create supply chain bottlenecks or price fluctuations in components.",
+         "category": "market",
+         "page_reference": "p.85",
+         "mitigation": [
+            "Spearheading decarbonisation initiatives"
+         ]
+      },
+      {
+         "risk_title": "Tender non-price criteria risk",
+         "description": "Increased use of sustainability criteria in tenders could exclude Vestas if emissions targets aren’t met.",
+         "category": "market",
+         "page_reference": "p.85",
+         "mitigation": [
+            "Enabling businesses/society to reduce GHG emissions"
+         ]
+      },
+      {
+         "risk_title": "Resource depletion risk",
+         "description": "Over-reliance on fossil fuels for operations may lead to supply shortages and higher costs.",
+         "category": "supply chain",
+         "page_reference": "p.85",
+         "mitigation": [
+            "Reducing reliance on fossil fuels"
+         ]
+      }
+   ]
+}

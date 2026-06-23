@@ -1,0 +1,84 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "High CAPEX/OPEX for decarbonization",
+         "description": "Significant investments in renewable energy and carbon tax mitigation are required, with immature commercial solutions increasing alignment costs.",
+         "category": "financial",
+         "page_reference": "p.86",
+         "mitigation": [
+            "EUR 0.3m (2024: EUR 0.5m) CAPEX in renewables",
+            "EUR 32.4m (2024: EUR 23.2m) OPEX for carbon tax mitigation"
+         ]
+      },
+      {
+         "risk_title": "Technical immaturity of decarbonization solutions",
+         "description": "Immature commercial or technical alternatives delay full adoption of renewable energy and emissions reduction levers.",
+         "category": "operational",
+         "page_reference": "p.86",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Slow EV fleet transition in service operations",
+         "description": "Only 25% (down from 26%) of vehicles are renewably fuelled by end-2025, despite targets for regional EV adoption.",
+         "category": "operational",
+         "page_reference": "p.86",
+         "mitigation": [
+            "Regional EV adoption targets",
+            "Increased charging infrastructure (160+ chargers in Denmark)"
+         ]
+      },
+      {
+         "risk_title": "Supply chain emissions reduction challenges",
+         "description": "Scope 3 GHG target of 45% per MWh by 2030 requires supplier collaboration; progress depends on market-based solutions.",
+         "category": "supply chain",
+         "page_reference": "p.86",
+         "mitigation": [
+            "Low-emission steel orders in 2025",
+            "Supplier decarbonization partnerships"
+         ]
+      },
+      {
+         "risk_title": "Climate policy uncertainty affecting global targets",
+         "description": "Industry may struggle to meet climate goals without supportive policies, risking operational alignment delays.",
+         "category": "regulatory",
+         "page_reference": "p.86",
+         "mitigation": [
+            "Strategic investments in compliance tools",
+            "Quarterly progress reviews by management"
+         ]
+      },
+      {
+         "risk_title": "Offshore methanol transition risks",
+         "description": "Pilot vessel (2025–2026) relies on evolving methanol standards; operational updates may extend timeline.",
+         "category": "operational",
+         "page_reference": "p.86",
+         "mitigation": [
+            "Class approval updates",
+            "10-year charter agreement with Northern Offshore Service"
+         ]
+      },
+      {
+         "risk_title": "Renewable energy sourcing dependency on policies",
+         "description": "100% renewable electricity sourcing depends on supportive policies; lack of them risks operational disruptions.",
+         "category": "market",
+         "page_reference": "p.86",
+         "mitigation": [
+            "Global 100% renewable procurement",
+            "SAF expansion for project-related flights"
+         ]
+      },
+      {
+         "risk_title": "Climate scenario analysis uncertainties",
+         "description": "Future climate risks (e.g., water stress, extreme rainfall) are based on uncertain assumptions; physical impacts may not materialize financially.",
+         "category": "climate",
+         "page_reference": "p.86",
+         "mitigation": [
+            "Quarterly resilience reviews",
+            "Value-chain prioritization for direct impact areas"
+         ]
+      }
+   ]
+}

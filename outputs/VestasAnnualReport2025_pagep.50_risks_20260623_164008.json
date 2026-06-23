@@ -1,0 +1,44 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "Industry Evolution Risks",
+         "description": "Exposure to risks arising from a rapidly evolving renewable energy sector due to technological and market changes.",
+         "category": "market",
+         "page_reference": "p.50",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Operational Complexity Risks",
+         "description": "Global business operations across diverse markets introduce operational challenges requiring structured risk management.",
+         "category": "operational",
+         "page_reference": "p.50",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Macroeconomic Risks",
+         "description": "Financial and strategic risks stemming from global economic fluctuations affecting short- to medium-term objectives.",
+         "category": "market",
+         "page_reference": "p.50",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Regulatory Challenges",
+         "description": "Potential regulatory hurdles impacting compliance and business strategy across global markets.",
+         "category": "regulatory",
+         "page_reference": "p.50",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Sustainability Risks",
+         "description": "Material risks including climate change mitigation and responsible business conduct affecting strategic goals.",
+         "category": "climate",
+         "page_reference": "p.50",
+         "mitigation": [
+            "Review by Executive Management Team, Board of Directors, Audit Committee every six months"
+         ]
+      }
+   ]
+}

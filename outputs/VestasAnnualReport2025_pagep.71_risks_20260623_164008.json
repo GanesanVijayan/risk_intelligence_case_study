@@ -1,0 +1,30 @@
+{
+   "company_name": "Vestas",
+   "year": "2025",
+   "file_name": "VestasAnnualReport2025.pdf",
+   "risks": [
+      {
+         "risk_title": "Climate Change Financial Risks",
+         "description": "GHG emissions from Vestas’ operations and value chain pose negative climate impacts, while low-emission materials offer financial opportunities.",
+         "category": "climate",
+         "page_reference": "p.71",
+         "mitigation": [
+            "Offering low-emission materials improves value proposition"
+         ]
+      },
+      {
+         "risk_title": "High Carbon Taxes and Tariffs",
+         "description": "Increased carbon taxes and tariffs raise costs for GHG-intensive materials like steel, impacting wind turbine production.",
+         "category": "regulatory",
+         "page_reference": "p.71",
+         "mitigation": []
+      },
+      {
+         "risk_title": "Energy Consumption Risks",
+         "description": "Fossil energy use in manufacturing and service of turbines negatively impacts climate, though scored as immaterial for financial materiality.",
+         "category": "climate",
+         "page_reference": "p.71",
+         "mitigation": []
+      }
+   ]
+}
